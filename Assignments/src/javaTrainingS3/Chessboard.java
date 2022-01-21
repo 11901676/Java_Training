@@ -32,7 +32,6 @@ public class Chessboard {
 			
 			for(int i = 0;i < 8;i++)
 			{
-				
 				//Checking the necessary condition for rows and column place of queen
 				if((row1==row2||row1==row3||row1==row4||row2==row3||row2==row4||row3==row4)||(column1==column2||column1==column3||column1==column4||column2==column3||column2==column4||column3==column4))
 				{
