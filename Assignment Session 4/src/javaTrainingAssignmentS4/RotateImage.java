@@ -97,7 +97,7 @@ public class RotateImage
 				{
 					sum = sum + image[i][j][k];
 				}
-				// Calculating the average of pixels values of original values
+				// Calculating the average of pixels values of original image
 				grayscale = sum/3;
 				
 				
